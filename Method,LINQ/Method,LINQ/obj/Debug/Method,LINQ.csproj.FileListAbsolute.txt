@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\obj\Debug\Method,LINQ.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\obj\Debug\Method,LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\bin\Debug\Method,LINQ.exe.config
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\bin\Debug\Method,LINQ.exe
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\bin\Debug\Method,LINQ.pdb
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\obj\Debug\Method,LINQ.exe
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\obj\Debug\Method,LINQ.pdb
+C:\Users\user\Desktop\hala-Backend\Method,LINQ\Method,LINQ\obj\Debug\Method,LINQ.exe.config
